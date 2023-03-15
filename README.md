@@ -5,3 +5,5 @@ traget - SD gen , Whisper, Q&A, V-DB
 
 RL-RLHF- HF Course 
 Mutual information
+
+Ai epiphany
