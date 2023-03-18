@@ -7,3 +7,4 @@ RL-RLHF- HF Course
 Mutual information
 
 Ai epiphany
+FSDL + CS 224N
