@@ -8,3 +8,5 @@ Mutual information
 
 Ai epiphany
 FSDL + CS 224N
+
+Live coding -FAI
