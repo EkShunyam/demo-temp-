@@ -10,3 +10,4 @@ Ai epiphany
 FSDL + CS 224N
 
 Live coding -FAI
+ wasm +wasi
