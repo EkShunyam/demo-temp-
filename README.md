@@ -11,3 +11,5 @@ FSDL + CS 224N
 
 Live coding -FAI
  wasm +wasi
+
+read the docs
