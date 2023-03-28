@@ -16,3 +16,4 @@ read the docs
 rebase
 copliot new featues
 try out
+cohere , open ai api
