@@ -15,4 +15,4 @@ Live coding -FAI
 read the docs
 rebase
 copliot new featues
-try oiut
+try out
