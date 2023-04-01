@@ -18,6 +18,5 @@ copliot new featues
 try out
 cohere , open ai api
 
-finish lecture 9 
-nasa task-workflow(demo) 
-get portfoliowebsite live
+finish lecture 9  
+VS - Upset fix
