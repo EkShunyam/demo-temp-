@@ -20,4 +20,4 @@ cohere , open ai api
 
 finish lecture 9  
 VS - Upset fix
-Abhishek- ML Github
+FAI -Part2
