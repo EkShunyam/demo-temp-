@@ -21,3 +21,4 @@ cohere , open ai api
 finish lecture 9  
 VS - Upset fix
 FAI -Part2
+copilot vs codewisperer
