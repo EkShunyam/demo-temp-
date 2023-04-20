@@ -28,6 +28,6 @@ https://www.youtube.com/watch?v=FomyM8CynF0&ab_channel=AlexZiskind
 
 https://www.youtube.com/watch?v=koybBUxiKW0&t=2s&ab_channel=HarkiratSingh
 
-https://www.youtube.com/watch?v=9W_U1y7RYuE&ab_channel=ByteByteGo
+
 
 https://www.youtube.com/watch?v=AeW9r3lopp0&ab_channel=JayAlammar
