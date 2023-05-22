@@ -33,5 +33,9 @@ COOKIES
 FCC- open contributions (TY)
 Umass-19
 FIN- YT TP List then !little+shri
-harkirat- OSI licen+ contribute
-updata- chrm,os,vsC,app
+ 
+Chat-GPT
+-corey
+-traversy
+-FCC- fullstack with it (2hrs)
+-DLAI- course (2hrs)
