@@ -35,7 +35,5 @@ Umass-19
 FIN- YT TP List then !little+shri
  
 Chat-GPT
--corey
--traversy
+-VS lect(acamind)
 -FCC- fullstack with it (2hrs)
--DLAI- course (2hrs)
