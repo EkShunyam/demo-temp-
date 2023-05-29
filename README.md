@@ -18,22 +18,4 @@ copliot new featues
 try out
 cohere , open ai api
 
-finish lecture 9  
-VS - Upset fix
-FAI -Part2
-copilot vs codewisperer
-
-to watch
-https://www.youtube.com/watch?v=FomyM8CynF0&ab_channel=AlexZiskind
-
-https://www.youtube.com/watch?v=koybBUxiKW0&t=2s&ab_channel=HarkiratSingh
-
-COOKIES
-
-FCC- open contributions (TY)
-Umass-19
-FIN- YT TP List then !little+shri
- 
-Chat-GPT
--VS lect(acamind)
--FCC- fullstack with it (2hrs)
+get it done!!!!!!!!!
