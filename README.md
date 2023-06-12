@@ -21,6 +21,6 @@ cohere , open ai api
 get it done!!!!!!!!!
 
 new-new
+
 FAI-local
-ClnBrd
-JH- [1,2]-2022
+JH- [1,2]-2022- code
