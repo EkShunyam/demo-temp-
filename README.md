@@ -14,9 +14,7 @@ Live coding -FAI
 
 read the docs
 rebase
-copliot new featues
-try out
-cohere , open ai api
+experiment and iterate
 
 get it done!!!!!!!!!
 
