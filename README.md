@@ -25,3 +25,6 @@ new-new
 3-FAI-local
 JH- [1,2]-2022- code
 JH V1 fin -8
+
+list of itmes
+-fai walkthrough 2 
