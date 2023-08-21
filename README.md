@@ -29,3 +29,4 @@ JH V1 fin -8
 list of itmes
 - fai walkthrough 2
 - live codin 1
+- open contribution
