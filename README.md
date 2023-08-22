@@ -31,5 +31,6 @@ list of itmes
 - live codin 1
 - open contribution
 - chistofer henkell-fine tune transformer
+- solid dude ; piyush garg
 
 
