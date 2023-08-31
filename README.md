@@ -29,5 +29,6 @@ list of itmes
 - open contribution
 - chistofer henkell-fine tune transformer
 - solid dude ; piyush garg
+- please
 
 
