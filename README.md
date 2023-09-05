@@ -32,6 +32,6 @@ list of itmes
 - nick vid code
 - demo project
 - walkthrough 2 site and git ignore
-- 
+- walk 1 2nd half
 
 
