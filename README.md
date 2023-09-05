@@ -31,5 +31,7 @@ list of itmes
 - solid dude ; piyush garg
 - nick vid code
 - demo project
+- walkthrough 2 site and git ignore
+- 
 
 
