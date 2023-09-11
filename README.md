@@ -33,6 +33,5 @@ list of itmes
 - demo project
 - walkthrough 2 site and git ignore
 - walk 1 2nd half
-- piyush- apache, graphana
-thhen walk 3
+- tuesday- liv-coding (local+paperspace)
 
