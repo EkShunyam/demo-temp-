@@ -30,7 +30,4 @@ list of itmes
 - chistofer henkell-fine tune transformer
 - solid dude ; piyush garg
 - nick vid code
-- demo project
-- walkthrough 2 site and git ignore
-- tuesday- liv-coding (local+paperspace)
 
