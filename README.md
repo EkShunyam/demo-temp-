@@ -31,3 +31,5 @@ list of itmes
 - solid dude ; piyush garg
 - nick vid code
 
+Fast ai ka NBdev +quarto superpower workflow
+quarto blog really noice 
