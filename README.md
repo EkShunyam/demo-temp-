@@ -34,3 +34,4 @@ quarto blog really noice
 - fai nbdev walkthrough
 - qmd portfolio blg
 - codin
+- piyusg ga - good bloke
