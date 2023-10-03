@@ -15,9 +15,6 @@ experiment and iterate
 
 get it done!!!!!!!!!
 
-new-new
-1-live FAI (1 and 2 )
-2-paperspace/lamda labs setup
 
 3-FAI-local
 JH- [1,2]-2022- code
