@@ -31,7 +31,7 @@ list of itmes
 Fast ai ka NBdev +quarto superpower workflow
 quarto blog really noice 
 **to do list**
-- fai nbdev walkthrough
+- fai nbdev walkthrough -**on it now**
 - qmd portfolio blg
 - codin
 - piyusg ga - good bloke
