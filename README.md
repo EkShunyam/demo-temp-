@@ -36,3 +36,6 @@ quarto blog really noice
 - codin
 - piyusg ga - good bloke
 - end to end darshil parma
+
+**go go go on **
+quarto build plz
