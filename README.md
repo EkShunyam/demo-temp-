@@ -38,4 +38,6 @@ quarto blog really noice
 - end to end darshil parma
 
 **go go go on **
-quarto build plz
+NBdev Docs and project
+quarto build sites plz
+
