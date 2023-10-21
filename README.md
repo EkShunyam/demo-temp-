@@ -41,3 +41,8 @@ quarto blog really noice
 NBdev Docs and project
 quarto build sites plz
 
+satuday
+-thomas quarto
+-jeremy nbdev
+-nathcooper series
+
