@@ -41,8 +41,8 @@ quarto blog really noice
 NBdev Docs and project
 quarto build sites plz
 
-satuday
--thomas quarto
--jeremy nbdev
--nathcooper series
+tuesday-24
+ty - boyle
+live codin 01 -JH
+quarto - fai forums
 
