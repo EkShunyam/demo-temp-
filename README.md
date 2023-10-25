@@ -41,8 +41,9 @@ quarto blog really noice
 NBdev Docs and project
 quarto build sites plz
 
-tuesday-24
-ty - boyle
+Wed 25
 live codin 01 -JH
 quarto - fai forums
+nbdev -https://fastai.github.io/jupytercon-2023/
+
 
