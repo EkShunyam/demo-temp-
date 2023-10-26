@@ -38,8 +38,9 @@ quarto blog really noice
 - end to end darshil parma
 
 **go go go on **
-NBdev Docs and project
-quarto build sites plz
+- NBdev Docs and project
+- quarto build sites plz
+- https://github.com/aayushmnit/ayushmnit.github.io/blob/master/_quarto.yml
 
 Wed 25
 live codin 01 -JH
