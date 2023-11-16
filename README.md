@@ -2,6 +2,9 @@
 Might delete in future might not lets see
 
 
+<ins>**1611-tasks**</ins>
+- LLM -JH Lect
+- [Workshop] AI Engineering 101
 
 
 self reference
