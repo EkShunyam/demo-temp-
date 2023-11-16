@@ -1,17 +1,15 @@
 # demo-temp-
 Might delete in future might not lets see
+
+
+
+
 self reference
 RL-RLHF- HF Course 
 Mutual information
 Ai epiphany
 FSDL + CS 224N
 
-Live coding -FAI
- wasm +wasi
-
-read the docs
-rebase
-experiment and iterate
 
 get it done!!!!!!!!!
 
