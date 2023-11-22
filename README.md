@@ -2,8 +2,8 @@
 Might delete in future might not lets see
 
 
-<ins>**2111-tasks**</ins>
-- FAI[1-8] -JH Lect
+<ins>**2211-tasks**</ins>
+- FAI[4-8] -JH Lect
 - [Workshop] AI Engineering 101
 - blog -22
 
