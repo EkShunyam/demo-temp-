@@ -2,10 +2,10 @@
 Might delete in future might not lets see
 
 
-<ins>**2211-tasks**</ins>
-- FAI[4-8] -JH Lect
-- [Workshop] AI Engineering 101
-- blog -22
+<ins>**0312-tasks**</ins>
+- FAI[9-10] -JH Lect
+- later fir project [Workshop] AI Engineering 101
+- blog -04 - fai walkthrough
 
 ---------------------------------------------------------------------------------------
 
