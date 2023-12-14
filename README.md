@@ -2,6 +2,7 @@
 Might delete in future might not lets see
 
 14 dec - wrap up things and GET GOING 
+
 <ins>**0312-tasks**</ins>
 - FAI[9-10] -JH Lect
 - later fir project [Workshop] AI Engineering 101
